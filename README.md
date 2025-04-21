@@ -27,5 +27,7 @@ During installation, navigate to the folder that you copied when asked for the d
 > https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/windows-setup-edition-configuration-and-product-id-files--eicfg-and-pidtxt?view=windows-11
 >
 > https://answers.microsoft.com/en-us/windows/forum/all/windows-10-usb-install-media-driver-missing/e6f91d6c-3b51-42f5-a4cc-580a469b7d9c
+>
+> https://www.reddit.com/r/techsupport/comments/l825j3/comment/glb09lx/
 > 
 > -------
